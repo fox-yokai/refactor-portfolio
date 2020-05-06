@@ -1,0 +1,12 @@
+:root {
+    --cultured: #EEF1EF;
+}
+
+.lightText {
+    color: var(--cultured);
+}
+
+.navbar-background {
+    background-image: url("../../images/coffee-writing-computer-blogging-34600\ .jpg");
+    height: 80px;
+}
