@@ -1,0 +1,13 @@
+:root {
+    --cultured: #EEF1EF; 
+}
+
+#about-me {
+    max-width: 540px;
+}
+
+.socialBtn {
+    border-radius: 50%;
+    border-style: solid;
+    background-color: var(--cultured);
+}
